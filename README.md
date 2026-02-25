@@ -111,6 +111,7 @@
 #### 📅 日历模块
 - 实时日期显示
 - 支持月份/年份切换
+<img width="699" height="480" alt="image" src="https://github.com/user-attachments/assets/a26926ee-dae9-4d77-9707-4923eb400909" />
 
 ---
 
