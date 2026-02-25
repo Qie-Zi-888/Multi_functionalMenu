@@ -94,6 +94,7 @@
 - ADC实时采集电压信号
 - 动态波形显示
 - 电压数值实时显示
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/bd5dbb3e-3309-403d-9029-b6c5f4325f36" />
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a907b862-4999-46aa-8df4-ddbf10e4615b" />
 
 #### 💡 LED控制
