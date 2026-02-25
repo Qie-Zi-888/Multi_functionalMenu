@@ -57,7 +57,7 @@
 ### 系统架构
 
 菜单界面：
-<img width="281" height="185" alt="image" src="https://github.com/user-attachments/assets/46d43711-68bd-4138-8b3e-200ffc8208cd" />
+<img width="280" height="200" alt="image" src="https://github.com/user-attachments/assets/46d43711-68bd-4138-8b3e-200ffc8208cd" />
 
 基于 **FreeRTOS** 实时操作系统，采用多任务设计：
 
@@ -81,7 +81,7 @@
 - 走法合法性校验
 - "将军"判定与胜负判断
 - 10×9棋盘状态管理
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f3e9f760-3531-48b0-991e-49ac77da4dc6" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/f3e9f760-3531-48b0-991e-49ac77da4dc6" />
 
 #### 🧮 计算器
 - 支持加减乘除四则运算
