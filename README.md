@@ -73,7 +73,7 @@
     └───────┘ └───────┘ └───────┘ └───────┘ └───────┘
 ```
 
-
+---
 ### 功能模块详解
 
 #### 🎮 象棋游戏
@@ -83,14 +83,12 @@
 - 10×9棋盘状态管理
 <img width="134" height="186" alt="image" src="https://github.com/user-attachments/assets/f3e9f760-3531-48b0-991e-49ac77da4dc6" />
 
-
 #### 🧮 计算器
 - 支持加减乘除四则运算
 - 事件驱动架构（LVGL按钮矩阵）
 - 自定义字符串转浮点函数（解决atof失效问题）
 - 除零错误处理
 <img width="283" height="190" alt="image" src="https://github.com/user-attachments/assets/5e57264a-10ab-43db-8d3b-ca166182b0ab" />
-
 
 #### 📊 OLED示波器
 - ADC实时采集电压信号
