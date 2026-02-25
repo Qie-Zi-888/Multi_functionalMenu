@@ -81,7 +81,7 @@
 - 走法合法性校验
 - "将军"判定与胜负判断
 - 10×9棋盘状态管理
-<img width="134" height="186" alt="image" src="https://github.com/user-attachments/assets/f3e9f760-3531-48b0-991e-49ac77da4dc6" />
+<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/f3e9f760-3531-48b0-991e-49ac77da4dc6" />
 
 #### 🧮 计算器
 - 支持加减乘除四则运算
@@ -94,18 +94,18 @@
 - ADC实时采集电压信号
 - 动态波形显示
 - 电压数值实时显示
-<img width="174" height="150" alt="image" src="https://github.com/user-attachments/assets/a907b862-4999-46aa-8df4-ddbf10e4615b" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a907b862-4999-46aa-8df4-ddbf10e4615b" />
 
 #### 💡 LED控制
 - 通过Switch控件控制物理LED
 - 实时读取GPIO输出状态
-<img width="261" height="173" alt="image" src="https://github.com/user-attachments/assets/f1ac48e9-1adb-43c7-809f-bceb0a4a5916" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/f1ac48e9-1adb-43c7-809f-bceb0a4a5916" />
 
 #### 🔄 排序算法可视化
 - 冒泡排序过程动态展示
 - 颜色区分元素状态（未排序/正在比较/已排序）
 - LCD矩形条绘制
-<img width="240" height="123" alt="image" src="https://github.com/user-attachments/assets/6c3e5239-6179-4fd5-9668-77af018729ff" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6c3e5239-6179-4fd5-9668-77af018729ff" />
 
 #### 📅 日历模块
 - 实时日期显示
