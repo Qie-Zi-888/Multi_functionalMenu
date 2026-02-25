@@ -81,7 +81,7 @@
 - 走法合法性校验
 - "将军"判定与胜负判断
 - 10×9棋盘状态管理
-<img width="180" height="200" alt="image" src="https://github.com/user-attachments/assets/f3e9f760-3531-48b0-991e-49ac77da4dc6" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f3e9f760-3531-48b0-991e-49ac77da4dc6" />
 
 #### 🧮 计算器
 - 支持加减乘除四则运算
