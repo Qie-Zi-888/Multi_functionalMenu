@@ -1,0 +1,17 @@
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\gifdec.c
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\gifdec.h
+.\objects\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/lv_fs.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+.\objects\gifdec.o: ..\porting\lv_conf.h
+.\objects\gifdec.o: ..\..\guiprj\custom\lv_conf_ext.h
+.\objects\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/lv_log.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/lv_types.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/lv_mem.h
+.\objects\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gifdec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/lv_color.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/lv_assert.h
+.\objects\gifdec.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\extra\libs\gif\../../../misc/lv_math.h

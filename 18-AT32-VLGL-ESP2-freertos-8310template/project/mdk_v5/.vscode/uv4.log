@@ -1,0 +1,12 @@
+*** Using Compiler 'V6.16', folder: 'C:\Keil_v5\ARM\ARMCLANG\Bin'
+Build target 'lvgl_desktop_demo'
+../../../libraries/at_surf_f437_board/at_surf_f437_board_lcd.c(172): error: use of undeclared identifier 'CRM_IOMUX_PERIPH_CLOCK'
+  crm_periph_clock_enable(CRM_IOMUX_PERIPH_CLOCK, TRUE);
+                          ^
+1 error generated.
+compiling at_surf_f437_board_lcd.c...
+compiling lv_port_disp_template.c...
+compiling main.c...
+".\objects\lvgl_desktop_demo.axf" - 1 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:04

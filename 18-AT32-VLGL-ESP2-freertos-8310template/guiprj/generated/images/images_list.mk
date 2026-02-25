@@ -1,0 +1,1 @@
+GEN_CSRCS += _goodsun_alpha_480x320.c _chessimg_alpha_48x45.c _weathimg_alpha_48x45.c _wave_alpha_48x45.c _static_alpha_48x45.c _back_alpha_50x36.c _aichatimg_alpha_48x45.c _bspimg_alpha_48x45.c _temp_alpha_49x46.c _humidness_alpha_48x45.c _weathimg_alpha_49x46.c

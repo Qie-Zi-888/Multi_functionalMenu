@@ -1,0 +1,11 @@
+.\objects\lv_printf.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\misc\lv_printf.c
+.\objects\lv_printf.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\misc\lv_printf.h
+.\objects\lv_printf.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\misc\../lv_conf_internal.h
+.\objects\lv_printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_printf.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\misc\../lv_conf_kconfig.h
+.\objects\lv_printf.o: ..\porting\lv_conf.h
+.\objects\lv_printf.o: ..\..\guiprj\custom\lv_conf_ext.h
+.\objects\lv_printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\lv_printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_printf.o: ..\..\..\middlewares\3rd_party\lvgl8310\src\misc\lv_types.h
+.\objects\lv_printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
